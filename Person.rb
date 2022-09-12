@@ -4,7 +4,6 @@ class Person
     @name = name
     @age = 10
   end
-
   attr_reader :id
 
   def of_age?
