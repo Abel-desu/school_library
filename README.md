@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Zelalem-blueviolet)
+![](https://img.shields.io/badge/Abel-blueviolet)
 
 # School_library
 
@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@Abel-desu](https://github.com/Zelalem1222)
+- GitHub: [@Abel-desu](https://github.com/Abel-desu)
 - Twitter: [@Abeldesalegn97](https://twitter.com/abeldesalegn97)
 - LinkedIn: [@Abeldesalegn](https://www.linkedin.com/in/abel-desalegn92)
 
