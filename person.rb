@@ -29,5 +29,5 @@ class Person < Nameable
   private :of_age?
   public :can_use_services?
   attr_reader :id
-  attr_accessor :name, :age, :parent_permission, ::rentals
+  attr_accessor :name, :age, :parent_permission, :rentals
 end
