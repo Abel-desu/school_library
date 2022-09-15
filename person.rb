@@ -1,3 +1,5 @@
+require_relative 'nameable'
+
 class Person < Nameable
   def initialize(_age, name = 'Unknown', parent_permission: true)
     super()
