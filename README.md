@@ -14,20 +14,19 @@ And all of this is built in a beautiful and well-organized way!
 
 -Ruby
 
-
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 -- Any text editor such as vscode.
 
-### Setup
+## Getting Started
 
-- Clone this repo locally using git in the command line and the following command
-   ```bash
-  > https://github.com/Abel-desu/school_library.git
+To get a local copy up and running follow these simple example steps.
+- Clone the project $ git clone https://github.com/Abel-desu/school_library.git
+- Open your project in VS code of any text editor that you love to use.
+- you can run the project using ruby filename.rb 
+
+
+
    ```
 ### Install
 
