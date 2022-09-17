@@ -25,9 +25,6 @@ To get a local copy up and running follow these simple example steps.
 - Open your project in VS code of any text editor that you love to use.
 - you can run the project using ruby filename.rb 
 
-
-
-   ```
 ### Install
 
 -- Run this command on your terminal to install all the dependencies: bundle install
